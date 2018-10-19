@@ -1,0 +1,61 @@
+* Well Typed Functional Programming
+  :PROPERTIES:
+  :CUSTOM_ID: typed-pure-functional-programming
+  :END:
+
+This repository *will* contain a curriculum, teaching materials, and
+exercises to teach fundamentals of type pure functional programming.
+
+** Mission
+
+Provide an open curriculum and teaching/training material to be used by:
+- the individual learner who is starting career in programming
+- the individual learner who is mid-career with experience in mainstream languages
+- mentors teaching mentees in a commercial setting
+- work team trainers/leads
+
+** Goals
+
+- Fill common gaps in knowledge (especially informal yet practical theory)
+- Provide further reading to reviewed resources while providing enough understanding
+  to apply ideas
+- Provide examples-rich exercises
+- TODO discuss pedagogy philosophy or tactics
+- TODO what other goals?
+- TODO what goals above do you disagree with?
+- TODO what goals above should we reword?
+
+** SUGGESTED ONLY License
+   :PROPERTIES:
+   :CUSTOM_ID: license
+   :END:
+
+The curriculum, material, and exercises are released under the CC BY-SA
+4.0 International license. This allows you to share and adapt with the
+stipulation that you provide /attribution/ and your adaptations in a
+/sharealike/ way.
+
+See [[https://creativecommons.org/licenses/by-sa/4.0/][human readable version]] to understand the broad license terms and the
+[[https://creativecommons.org/licenses/by-sa/4.0/legalcode][legal agreement]] for details.
+
+To provide attribution, link back to
+=https://github.com/mbbx6spp/welltypedfp= or the current home for the
+project at the time.
+
+** Outline
+   :PROPERTIES:
+   :CUSTOM_ID: outline
+   :END:
+
+See [[file:OUTLINE.md][Outline]] of curriculum for a teaser of curriculum outline. Changes to ordering and
+structure are likely as our group forms and develops the materials and get feedback
+from learners of all levels.
+
+** Sources
+   :PROPERTIES:
+   :CUSTOM_ID: sources
+   :END:
+
+We will keep a curated list of sources at [[file:SOURCES.md][Sources]] as we add material. Seeded with
+initial set of sources. Over time it may make sense to keep sources, citations,
+or bibliography with each section's materials
