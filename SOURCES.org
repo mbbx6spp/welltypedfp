@@ -1,0 +1,20 @@
+** COMMENT Sources
+   :PROPERTIES:
+   :CUSTOM_ID: sources
+   :END:
+
+A lot of the material above will be pulled in from a variety of sources
+that will be modified.
+
+Below are some sources that could use as inspiration:
+
+- [[https://github.com/data61/fp-course][FP Course at NICTA/Data61]]
+- [[https://github.com/fpinscala/fpinscala][FP in Scala book]]
+- [[https://github.com/chris-taylor/LondonHUG/blob/master/londonhug.pdf][Algebra of ADTs (talk at London Haskell User Group)]]
+- [[https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types][Algebra of ADTs]]
+- [[http://web.jaguarpaw.co.uk/~tom/blog/posts/2012-09-09-towards-free-applicatives.html][Free Applicatives]]
+- [[http://www.scs.stanford.edu/16wi-cs240h/][Functional Systems (Stanford, Haskell course)]]
+- [[https://www.coursera.org/learn/progfun1][Functional Programming Principles in Scala (École Polytechnique Fédérale de Lausanne, Scala)]]
+- [[http://harold.hotelling.net/gcdfix.lhs][Introduction to fixed points]]
+
+TODO Add more relevant sources

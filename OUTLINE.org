@@ -1,0 +1,103 @@
+* Typed Pure Functional Programming
+  :PROPERTIES:
+  :CUSTOM_ID: typed-pure-functional-programming
+  :END:
+
+In no particular order, the following are some (non-exhuastive) topics people coming
+from an OO background are generally missing when entering well-typed functional
+programming (WTFP) learning. This is based on anecdotal experience attempting to teach
+Java/Scala and Ruby/Python developers at work in previous and current positions
+[mbbx6spp].
+
+Starting simple and building up slowly is key and this list doesn't necessarily
+demonstrate this since this is not necessarily ordered nor an exhaustive list of
+topics.
+
+** Functions
+
+*** TODO Getting comfortable with simple functions
+*** TODO higher order functions (HOFs)
+*** TODO combinators
+
+** Equational Reasoning Intro
+
+*** TODO Lambda Calculus
+
+- primitives
+- alpha renaming
+- beta reduction
+- ...
+
+*** TODO Reviewing algebraic substitution
+
+- for many OO programmers learning WTFP initially, algebra was forgotten years ago
+
+** Algebraic Data Types (Optional and List definitions)
+
+A non-exhaustive list of sub-topics that I've found instructive for gaining confidence
+using, definining, and translating between aglebraic data types.
+
+*** TODO Basics
+*** TODO Cardinality
+*** TODO ADT as "polynomials"
+- sum types as "addition"
+- product types as "multiplication"
+- recursive types as powers
+- functions as exponents
+- laws (add to zero, multiply by zero, multiply by one, etc.)
+- Possibly provide the more diagrammatic category theoretic path?
+
+*** TODO Holes & Zippers (differentiation on ADT cardinality representation)
+*** TODO ADTs as initial algebras
+*** TODO Data vs Codata
+
+** Data-type generic programming
+
+*** TODO Introduce representing ADTs generically
+
+- exercises in traversing structures of common type forms
+
+** Logic & Curry-Howard Isomorphism
+
+*** TODO Quantification
+
+- Universal
+- Existential
+
+*** TODO Parametricity "theorems for free" (basics)
+
+- provide lots of examples and problem sets
+
+** Traversing & Converting Data
+*** TODO Foldable
+*** TODO Traverable
+*** TODO [Covariant] Functors
+*** TODO Contravariant Functors
+*** TODO Bifunctors
+*** TODO Profunctors
+*** TODO Iso
+
+** Deep Inspection & Modification of Data Structures
+*** TODO Optics
+
+- Fold
+- Lense
+- Traversal
+- Prisms
+- Choice
+- How the above and relate to each other and other abstractions introduced in other
+  parts of the material
+
+** Effectful programming
+*** TODO Applicative, Alternative, Arrows, Monads
+*** TODO Extensible Effects?
+
+** Unsorted topics:
+- Coyoneda (return to Sets for map :)) & Lawless Popular Misconceptions
+- Free Structures (examples: a free monoid, a free applicative, a free
+  monad)
+- Extensible Effects
+- GADTS and State Machines
+- Fixed Points!
+- Recursion Schemes
+- Functional Dependencies
